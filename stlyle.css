@@ -37,3 +37,29 @@ p a{
 ul li{
   color: #45A29E;
 }
+.footer{
+  background-color: #45A29E;
+  width: 100%;
+  height: 30px;
+  position: fixed;
+  color: black;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: small;
+  clear: both;
+  
+}
+.footer img {
+  position: relative;
+  size: 15px;
+}
+#interest{
+  padding-bottom: 20px;
+}
+.images{
+  color: black;
+}
