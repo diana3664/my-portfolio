@@ -1,5 +1,13 @@
+html{
+  background-color: black;
+}
 header{
   background-color: #66FCF1;
   padding: 20px;
-  margin: 0%;
+  top: 0px;
+  left: 0%;
+}
+img{
+  margin-top: 50px;
+  margin-left: 60px;
 }
