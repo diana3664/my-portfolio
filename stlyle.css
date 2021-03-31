@@ -1,5 +1,6 @@
 html{
   background-color: black;
+  font-size: 20px;
 }
 header{
   background-color: #66FCF1;
@@ -10,4 +11,20 @@ header{
 img{
   margin-top: 50px;
   margin-left: 60px;
+}
+h3{
+  color: #45A29E;
+}
+h5{
+  color: #66FCF1;
+}
+.column{
+  color: white;
+  width: 800px;
+  float: right;
+  padding-right: 150px;
+  margin-top: 150px;
+}
+em{
+  color: #66FCF1;
 }
